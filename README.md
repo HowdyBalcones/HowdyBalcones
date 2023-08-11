@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @HowdyBalcones
 - 👀 I’m interested in ...
+    - Data visualization
+    - Fundamentals of programming
+    - Automation
 - 🌱 I’m currently learning ...
     - Bash scripting
     - Awk & sed
