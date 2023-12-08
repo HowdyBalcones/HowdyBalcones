@@ -6,9 +6,14 @@
 - 🌱 I’m currently learning ...
     - Bash scripting
     - Awk & sed
-    - C
+    - C++
 - 💞️ I’m looking to collaborate on ...
+    - Anything within my skillset
+    - Database management
+    - Procedural Graphics
 - 📫 How to reach me ...
+    - camdenbailey.com
+    - baileyautographics@gmail.com   
 
 <!---
 HowdyBalcones/HowdyBalcones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
