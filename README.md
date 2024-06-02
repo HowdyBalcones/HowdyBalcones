@@ -13,7 +13,7 @@
     - Procedural Graphics
 - 📫 How to reach me ...
     - camdenbailey.com
-    - baileyautographics@gmail.com   
+    - cbaileypainter@gmail.com  
 
 <!---
 HowdyBalcones/HowdyBalcones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
